@@ -20,6 +20,13 @@ unregularized model.
 
         - ![Callbacks code](./callback_code.JPG)
 
+- Finally i implemented an early stopping callback that stops training the model when the model is not showing improvements with min_delta = 0.01 and patience of 5 epochs.
+
+    - Early Stopping - stops at 12 epochs
+
+        - ![Early Stopping](./early_stopping.JPG)
+
+
 # Libraries Used
  - Tensorflow Keras
  - Matplotlib
