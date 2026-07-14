@@ -1,3 +1,5 @@
+Blog: [](https://natanasrat.com/blog/tensorflow-validation-regularization-and-callbacks/)
+
 # Project Description
 - In this project i regularized a model using L2 regularization with dropout while also comparing the perfomance improvements visually by plotting loss during training and validation.
 - Due to reduced overfitting, the validation loss is decreased after using L2 regularization and dropout relative to the 
